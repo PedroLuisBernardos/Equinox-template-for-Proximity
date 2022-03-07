@@ -52,7 +52,7 @@ The pt template is not read by default. In the `/pt` folder you can find the def
 | --- | --- |
 | ![preview image](/Preview%20Images/front%20pt.png) | ![preview image](/Preview%20Images/back%20pt.png) |
 
-## How to use the Planeswalker template
+## WIP: FEATURE TO COME - How to use the Planeswalker template
 
 The pw template is not read by default. In the `/pinlines` folder you can find lots of sub-folders. You will need to replace, in each one of those sub-folders, the default templates with the pw templates present in the `/pinlines/pwX/front` or `/pinlines/pwX/back` folders (there are a pw3 and a pw4 folders available), depending if you overwrite a **back** folder or not.
 
