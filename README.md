@@ -26,7 +26,7 @@ or you can [download the zip file](https://github.com/PedroLuisBernardos/Equinox
 
 The [EquinoxTextless template](https://github.com/PedroLuisBernardos/EquinoxTextless-template-for-Proximity) is also avaible.
  
-| ![preview image](/Preview%20Images/Esper%20Sentinel%20(MH2%20Equinox).png) | ![preview image](/Preview%20Images/Omnath,%20Locus%20of%20Creation%20(ZNR%20Equinox).png) | ![preview image](/Preview%20Images/Waterlogged%20Grove%20(MH1%20Equinox).png) |
+| ![preview image](/Preview%20Images/Esper%20Sentinel%20(MH2%20Equinox).png) | ![preview image](/Preview%20Images/Nicol%20Bolas,%20the%20Ravager%20(M19%20Equinox).png) | ![preview image](/Preview%20Images/Waterlogged%20Grove%20(MH1%20Equinox).png) |
 | --- | --- | --- |
 | ![preview image](/Preview%20Images/Crop%20Rotation%20(2XM%20EquinoxTextless).png) | ![preview image](/Preview%20Images/Purphoros,%20God%20of%20the%20Forge%20(SLD%20EquinoxTextless).png) | ![preview image](/Preview%20Images/Wrenn%20and%20Six%20(MH1%20EquinoxTextless).png) |
 
@@ -42,7 +42,7 @@ Move your image horizontally `x` and verticaly `y` and see what's the best resul
 This is an example on why to change those values could be useful
 | y="0" | y="125" | y="300" |
 | --- | --- | --- |
-| ![preview image](/Preview%20Images/y0.png) | ![preview image](/Preview%20Images/y125.png) | ![preview image](/Preview%20Images/y300.png) |
+| ![preview image](/Preview%20Images/y0.png) | ![preview image](/Preview%20Images/Crop%20Rotation%20(2XM%20EquinoxTextless).png) | ![preview image](/Preview%20Images/y300.png) |
 
 ## How to use the back template for Power/Toughness
 
