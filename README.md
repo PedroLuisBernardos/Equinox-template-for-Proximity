@@ -46,3 +46,8 @@ The pw template is not read by default. In the `/pinlines` folder you can find l
 | using default template | using pw3 template | using pw4 template |
 | --- | --- | --- |
 | ![preview image](/Preview%20Images/default%20template.png) | ![preview image](/Preview%20Images/pw3%20template.png) | ![preview image](/Preview%20Images/pw4%20template.png) |
+
+
+| using default back template | using back pw3 template | using back pw4 template |
+| --- | --- | --- |
+| ![preview image](/Preview%20Images/default%20back%20template.png) | ![preview image](/Preview%20Images/back%20pw3%20template.png) | ![preview image](/Preview%20Images/back%20pw4%20template.png) |
