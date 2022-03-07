@@ -2,7 +2,7 @@
 
 ![repo size](https://img.shields.io/github/repo-size/PedroLuisBernardos/Equinox-template-for-Proximity)
 
-## Authors
+## 👥 Authors
 
 `.psd` templates by [myojin223](https://github.com/myojin223).
 
@@ -41,8 +41,8 @@ The pt template is not read by default. In the `/pt` folder you can find the def
 
 ## How to use the Planeswalker template
 
-The pw template is not read by default. In the `/pinlines` folder you can find lots of sub-folders. You will need to replace, in each one of them, the templates with the pw templates in the `/pinlines/pw/front` or `/pinlines/pw/back` folders, depending if you overwrite a **back** folder or not.
+The pw template is not read by default. In the `/pinlines` folder you can find lots of sub-folders. You will need to replace, in each one of those sub-folders, the default templates with the pw templates present in the `/pinlines/pwX/front` or `/pinlines/pwX/back` folders (there are a pw3 and a pw4 folders available), depending if you overwrite a **back** folder or not.
 
-| using default template | using pw template |
-| --- | --- |
-| ![preview image](/Preview%20Images/default%20template.png) | ![preview image](/Preview%20Images/pw%20template.png) |
+| using default template | using pw3 template | using pw4 template |
+| --- | --- | --- |
+| ![preview image](/Preview%20Images/default%20template.png) | ![preview image](/Preview%20Images/pw3%20template.png) | ![preview image](/Preview%20Images/pw4%20template.png) |
