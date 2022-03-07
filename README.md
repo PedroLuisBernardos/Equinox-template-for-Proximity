@@ -8,10 +8,23 @@
 
 `.png` images made by [PedroLuisBernardos](https://github.com/PedroLuisBernardos) and [ImKyle4815](https://github.com/ImKyle4815).
 
-## For Proximity 0.5.4+
+## :clipboard: Prerequisites
 
-* [Ready to use Proximity link here](https://github.com/PedroLuisBernardos/Ready-to-Use-Proximity)
-* [EquinoxTextless template here](https://github.com/PedroLuisBernardos/EquinoxTextless-template-for-Proximity)
+You'll need [Proximity 0.5.4+](https://github.com/PedroLuisBernardos/Ready-to-Use-Proximity).
+
+## :wrench: Installation
+
+You need to clone this repo
+
+```bash
+git clone https://github.com/PedroLuisBernardos/Equinox-template-for-Proximity.git
+```
+
+or you can [download the zip file](https://github.com/PedroLuisBernardos/Equinox-template-for-Proximity/archive/refs/heads/master.zip). You'll need to `unzip` it to have access to the folder.
+
+## Other templates
+
+The [EquinoxTextless template](https://github.com/PedroLuisBernardos/EquinoxTextless-template-for-Proximity) is also avaible.
  
 | ![preview image](/Preview%20Images/Esper%20Sentinel%20(MH2%20Equinox).png) | ![preview image](/Preview%20Images/Omnath,%20Locus%20of%20Creation%20(ZNR%20Equinox).png) | ![preview image](/Preview%20Images/Waterlogged%20Grove%20(MH1%20Equinox).png) |
 | --- | --- | --- |
@@ -31,21 +44,13 @@ This is an example on why to change those values could be useful
 | --- | --- | --- |
 | ![preview image](/Preview%20Images/y0.png) | ![preview image](/Preview%20Images/y125.png) | ![preview image](/Preview%20Images/y300.png) |
 
-## How to use the back template from power/thoughness
+## How to use the back template for Power/Toughness
 
 The pt template is not read by default. In the `/pt` folder you can find the default front pt templates. If you want to use the pt templates for the back cards you will need to replace those files with the files present in the `/pt/back` folder.
 
 | using front pt | using back pt |
 | --- | --- |
 | ![preview image](/Preview%20Images/front%20pt.png) | ![preview image](/Preview%20Images/back%20pt.png) |
-
-## How to use the two-sided cards template
-
-You need to replace the default trmplates in each `/front` sub-folder, inside the `/pinlines` folder, with the templates available in the folder `/pinlines/two-sided`.
-
-| using default template | using two-sided card template |
-| --- | --- |
-| ![preview image](/Preview%20Images/default%20side.png) | ![preview image](/Preview%20Images/two%20sided.png) |
 
 ## How to use the Planeswalker template
 
