@@ -1,5 +1,7 @@
 # Equinox Template
 
+![repo size](https://img.shields.io/github/repo-size/PedroLuisBernardos/Equinox-template-for-Proximity)
+
 ## Authors
 
 `.psd` templates by [myojin223](https://github.com/myojin223).
@@ -22,4 +24,25 @@ You need to modify the line `60` on the `template.xml` file:
 <Image id="art" x="0" y="125" width="3288" height="4488" url="${image_uris.art_crop}">
 ```
 
-Move your image horizontally (x) and verticaly (y) and see what's the best result for you :)
+Move your image horizontally `x` and verticaly `y` and see what's the best result for you :)
+
+This is an example on why to change those values could be useful
+| y="0" | y="125" | y="300" |
+| --- | --- | --- |
+| ![preview image](/Preview%20Images/y0.png) | ![preview image](/Preview%20Images/y125.png) | ![preview image](/Preview%20Images/y300.png) |
+
+## How to use the back template from power/thoughness
+
+The pt template is not read by default. In the `/pt` folder you can find the default front pt templates. If you want to use the pt templates for the back cards you will need to replace those files with the files present in the `/pt/back` folder.
+
+| using front pt | using back pt |
+| --- | --- |
+| ![preview image](/Preview%20Images/front%20pt.png) | ![preview image](/Preview%20Images/back%20pt.png) |
+
+## How to use the Planeswalker template
+
+The pw template is not read by default. In the `/pinlines` folder you can find lots of sub-folders. You will need to replace, in each one of them, the templates with the pw templates in the `/pinlines/pw/front` or `/pinlines/pw/back` folders, depending if you overwrite a **back** folder or not.
+
+| using default template | using pw template |
+| --- | --- |
+| ![preview image](/Preview%20Images/default%20template.png) | ![preview image](/Preview%20Images/pw%20template.png) |
