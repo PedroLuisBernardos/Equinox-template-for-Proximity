@@ -4,7 +4,7 @@
 
 ## 👥 Authors
 
-* `.psd` templates by [CantaPerMe#3540](https://drive.google.com/drive/folders/1VCrE84mhYUwONlbEyYIGCNSI_YwhG4j4) (discord).
+* `.psd` templates by CantaPerMe#3540 (discord).
 * Ready to use Proximity template made by [myojin223](https://github.com/myojin223) and adapted by mysel, [PedroLuisBernardos](https://github.com/PedroLuisBernardos).
 * `.png` images made by  and [ImKyle4815](https://github.com/ImKyle4815).
 
@@ -56,7 +56,7 @@ The Power/Thoughness (pt) template for the back side of the cards is not used by
 
 ## How to use the Planeswalker template
 
-I adapted the CantaPerMe#3540 `.psd` templates to make it easier for you to create your own pw templates. You will need to make some photoshop or to ask someone to make it for you in the `Request` section [of the discord](https://discord.gg/QwV3KnwsDC). Those templates are in this project: `pw back.psd` and `pw front and flip.psd`.
+I adapted the CantaPerMe#3540 `.psd` templates to make it easier for you to create your own pw templates. You will need to make some photoshop or to ask someone to make it for you in the `Request` section [of the discord](https://discord.gg/QwV3KnwsDC). Those templates can be found [in this Google Drive](https://drive.google.com/drive/folders/1VCrE84mhYUwONlbEyYIGCNSI_YwhG4j4).
 
 In this example, I should have modified the `x` and the `y` variables to adjust the image position with the default template, but the point is to show you that the pw symbols are not added by default.
 
