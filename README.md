@@ -22,6 +22,8 @@ git clone https://github.com/PedroLuisBernardos/Equinox-template-for-Proximity.g
 
 or you can [download the zip file](https://github.com/PedroLuisBernardos/Equinox-template-for-Proximity/archive/refs/heads/master.zip). You'll need to `unzip` it to have access to the folder.
 
+Place this folder into the `Ready-to-Use-Proximity/templates/` folder and **name it** `Equinox`.
+
 ## Other templates
 
 The [EquinoxTextless template](https://github.com/PedroLuisBernardos/EquinoxTextless-template-for-Proximity) is also avaible.
