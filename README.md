@@ -35,7 +35,7 @@ The [EquinoxTextless template](https://github.com/PedroLuisBernardos/EquinoxText
 You need to modify the line `60` on the `template.xml` file.
 
 ```xml
-<Image id="art" x="0" y="125" width="3288" height="4488" url="${image_uris.art_crop}">
+<Image id="art" x="352" y="605" width="2584" height="1882" url="${image_uris.art_crop}">
 ```
 
 Move your image horizontally `x` and verticaly `y` and see what's the best result for you. You can also change the `width` and the `height` to adjust your image position. Note that the maximum you can go is `3288x4488`.
