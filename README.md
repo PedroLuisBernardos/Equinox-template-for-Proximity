@@ -4,9 +4,9 @@
 
 ## 👥 Authors
 
-`.psd` templates by [CantaPerMe#3540](https://drive.google.com/drive/folders/1VCrE84mhYUwONlbEyYIGCNSI_YwhG4j4) (discord). Thanks to [myojin223](https://github.com/myojin223) for giving them to me.
-
-`.png` images made by [PedroLuisBernardos](https://github.com/PedroLuisBernardos) and [ImKyle4815](https://github.com/ImKyle4815).
+* `.psd` templates by [CantaPerMe#3540](https://drive.google.com/drive/folders/1VCrE84mhYUwONlbEyYIGCNSI_YwhG4j4) (discord).
+* Ready to use Proximity template made by [myojin223](https://github.com/myojin223) and adapted by mysel, [PedroLuisBernardos](https://github.com/PedroLuisBernardos).
+* `.png` images made by  and [ImKyle4815](https://github.com/ImKyle4815).
 
 ## :clipboard: Prerequisites
 
@@ -38,16 +38,17 @@ You need to modify the line `60` on the `template.xml` file.
 <Image id="art" x="0" y="125" width="3288" height="4488" url="${image_uris.art_crop}">
 ```
 
-Move your image horizontally `x` and verticaly `y` and see what's the best result for you. You can also change the width and the height to adjust your image position. Note that the maximum you can go is `3288x4488`.
+Move your image horizontally `x` and verticaly `y` and see what's the best result for you. You can also change the `width` and the `height` to adjust your image position. Note that the maximum you can go is `3288x4488`.
 
-This is an example on why to change those values could be useful
+This is an example on why to change those values could be useful. I personnally prefer the *y="300"* one.
+
 | y="0" | y="125" | y="300" |
 | --- | --- | --- |
 | ![preview image](/Preview%20Images/y0.png) | ![preview image](/Preview%20Images/Crop%20Rotation%20(2XM%20EquinoxTextless).png) | ![preview image](/Preview%20Images/y300.png) |
 
 ## How to use the back template for Power/Toughness
 
-The pt template is not read by default. In the `/pt` folder you can find the default front pt templates. If you want to use the pt templates for the back cards you will need to replace those files with the files present in the `/pt/back` folder.
+The Power/Thoughness (pt) template for the back side of the cards is not used by default. In the `/pt` folder you can find the default front side pt templates. If you want to use the pt templates for the back side you will need to replace the files in the `/pt` folder with the files in the `/pt/back` folder (I sudgest you to save the default files somewhere).
 
 | using front pt | using back pt |
 | --- | --- |
@@ -55,7 +56,9 @@ The pt template is not read by default. In the `/pt` folder you can find the def
 
 ## How to use the Planeswalker template
 
-I adapted the CantaPerMe#3540 `.psd` templates to make it easier for you to create your own pw templates. You will need to make some photoshop or to ask someone to make it to you in the `Request` section [of the discord](https://discord.gg/QwV3KnwsDC).
+I adapted the CantaPerMe#3540 `.psd` templates to make it easier for you to create your own pw templates. You will need to make some photoshop or to ask someone to make it for you in the `Request` section [of the discord](https://discord.gg/QwV3KnwsDC). Those templates are in this project: `pw back.psd` and `pw front and flip.psd`.
+
+In this example, I should have modified the `x` and the `y` variables to adjust the image position with the default template, but the point is to show you that the pw symbols are not added by default.
 
 | using default template | using pw template |
 | --- | --- |
