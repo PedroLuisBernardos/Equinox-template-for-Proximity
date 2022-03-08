@@ -4,7 +4,7 @@
 
 ## 👥 Authors
 
-`.psd` templates by [myojin223](https://github.com/myojin223).
+`.psd` templates by CantaPerMe#3540 (discord). Thanks to [myojin223](https://github.com/myojin223) for giving them to me.
 
 `.png` images made by [PedroLuisBernardos](https://github.com/PedroLuisBernardos) and [ImKyle4815](https://github.com/ImKyle4815).
 
@@ -53,14 +53,10 @@ The pt template is not read by default. In the `/pt` folder you can find the def
 | --- | --- |
 | ![preview image](/Preview%20Images/front%20pt.png) | ![preview image](/Preview%20Images/back%20pt.png) |
 
-## WIP: FEATURE TO COME - How to use the Planeswalker template
+## How to use the Planeswalker template
 
-The pw template is not read by default. In the `/pinlines` folder you can find lots of sub-folders. You will need to replace, in each one of those sub-folders, the default templates with the pw templates present in the `/pinlines/pwX/front` or `/pinlines/pwX/back` folders (there are a pw3 and a pw4 folders available), depending if you overwrite a **back** folder or not.
+I adapted the CantaPerMe#3540 `.psd` templates to make it easier for you to create your own pw templates. You will need to make some photoshop or to ask someone to make it to you in the `Request` section [of the discord](https://discord.gg/QwV3KnwsDC).
 
-| using default template | using pw3 template | using pw4 template |
-| --- | --- | --- |
-| ![preview image](/Preview%20Images/default%20template.png) | ![preview image](/Preview%20Images/pw3%20template.png) | ![preview image](/Preview%20Images/pw4%20template.png) |
-
-| using default back template | using back pw3 template | using back pw4 template |
-| --- | --- | --- |
-| ![preview image](/Preview%20Images/default%20back%20template.png) | ![preview image](/Preview%20Images/back%20pw3%20template.png) | ![preview image](/Preview%20Images/back%20pw4%20template.png) |
+| using default template | using pw template |
+| --- | --- |
+| ![preview image](/Preview%20Images/default%20template.png) | ![preview image](/Preview%20Images/pw%20template.png) |
