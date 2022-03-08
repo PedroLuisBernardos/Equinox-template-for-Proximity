@@ -30,7 +30,7 @@ The [EquinoxTextless template](https://github.com/PedroLuisBernardos/EquinoxText
 
 | ![preview image](/Preview%20Images/Esper%20Sentinel%20(MH2%20Equinox).png) | ![preview image](/Preview%20Images/Nicol%20Bolas,%20the%20Ravager%20(M19%20Equinox).png) | ![preview image](/Preview%20Images/Waterlogged%20Grove%20(MH1%20Equinox).png) |
 | --- | --- | --- |
-| ![preview image](/Preview%20Images/crop.png) | ![preview image](/Preview%20Images/purphoros) | ![preview image](/Preview%20Images/wrenn.png) |
+| ![preview image](/Preview%20Images/crop.png) | ![preview image](/Preview%20Images/purphoros.png) | ![preview image](/Preview%20Images/wrenn.png) |
 
 ## How to modify the image size and position
 
@@ -46,7 +46,7 @@ This is an example on why to change those values could be useful. I personnally 
 
 | y="0" | y="125" | y="300" |
 | --- | --- | --- |
-| ![preview image](/Preview%20Images/0.png) | ![preview image](/Preview%20Images/crop) | ![preview image](/Preview%20Images/300.png) |
+| ![preview image](/Preview%20Images/0.png) | ![preview image](/Preview%20Images/crop.png) | ![preview image](/Preview%20Images/300.png) |
 
 ## How to use the back template for Power/Toughness
 
