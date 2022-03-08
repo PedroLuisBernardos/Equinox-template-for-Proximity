@@ -4,7 +4,7 @@
 
 ## 👥 Authors
 
-`.psd` templates by CantaPerMe#3540 (discord). Thanks to [myojin223](https://github.com/myojin223) for giving them to me.
+`.psd` templates by [CantaPerMe#3540](https://drive.google.com/drive/folders/1VCrE84mhYUwONlbEyYIGCNSI_YwhG4j4) (discord). Thanks to [myojin223](https://github.com/myojin223) for giving them to me.
 
 `.png` images made by [PedroLuisBernardos](https://github.com/PedroLuisBernardos) and [ImKyle4815](https://github.com/ImKyle4815).
 
